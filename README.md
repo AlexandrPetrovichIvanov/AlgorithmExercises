@@ -1,0 +1,2 @@
+# AlgorithmExercises
+Just some exercises
